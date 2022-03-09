@@ -48,7 +48,7 @@
           </div>
           <div>
             <h3>best-minecraft-servers.co</h3>
-            <a href="https://best-minecraft-servers.co/server-semivanilla-mc.3773/vote" target="_blank"><button type="button" id="vote5" onclick="buttonClicked('vote5')">Vote</button></a>
+            <a href="https://best-minecraft-servers.co/server-khavalon.3773/vote" target="_blank"><button type="button" id="vote5" onclick="buttonClicked('vote5')">Vote</button></a>
           </div>
           <div>
             <h3>minecraft.buzz</h3>
