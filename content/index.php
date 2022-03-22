@@ -63,7 +63,7 @@
       <div class="content" id="landing">
         <div class="shadow"></div>
         <section class="center" style="flex-direction: column; max-width: 600px; border-radius: 50px; border: #23d37b dotted 3px; margin: 50px;">
-          <h3>Welcome to SemiVanilla</h3>
+          <h3>Welcome to Khavalon</h3>
           <p>Not your average SMP. Khavalon is a hard difficulty, pvp-enabled, survival RPG server. Danger lurks around every corner. Will you survive?</p>
         </section>
         <section class="center">

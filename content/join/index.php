@@ -6,7 +6,7 @@
     <script async defer>
       function copyToClipboard(id) {
         var aux = document.createElement("input");
-        aux.setAttribute("value", "play.semivanilla.com");
+        aux.setAttribute("value", "play.khavalon.com");
         document.body.appendChild(aux);
         aux.select();
         document.execCommand("copy");
@@ -80,7 +80,7 @@
               <li>In Minecraft, go to <strong>Play</strong> and then <strong>Servers</strong>.</li>
               <li>Scroll to the bottom and tap on <strong>Add Server</strong>.
               <li>Enter a name, this can be anything you want!</li>
-              <li>Enter "play.semivanilla.com" for the <strong>Server Address</strong>. Leave the default port (19132).</li>
+              <li>Enter "play.khavalon.com" for the <strong>Server Address</strong>. Leave the default port (19132).</li>
               <li>Tap <strong>Play</strong>!</li>
             </ol>
           </div>

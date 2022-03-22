@@ -47,8 +47,8 @@
             <a href="https://www.planetminecraft.com/server/semivanilla-mc/vote/" target="_blank"><button type="button" id="vote4" onclick="buttonClicked('vote4')">Vote</button></a>
           </div>
           <div>
-            <h3>best-minecraft-servers.co</h3>
-            <a href="https://best-minecraft-servers.co/server-khavalon.3773/vote" target="_blank"><button type="button" id="vote5" onclick="buttonClicked('vote5')">Vote</button></a>
+            <h3>servers-minecraft.net</h3>
+            <a href="https://servers-minecraft.net/server-khavalon-1-18-2.1274/vote" target="_blank"><button type="button" id="vote5" onclick="buttonClicked('vote5')">Vote</button></a>
           </div>
           <div>
             <h3>minecraft.buzz</h3>
