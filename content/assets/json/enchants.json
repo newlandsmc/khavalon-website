@@ -127,6 +127,13 @@
       "<span style='color: #55ffff;'>Rare</span>"
     ],
     [
+      "Enderroots",
+      "Chance of disabling enderpearls for your enemy up to 10 seconds.",
+      "Swords",
+      "5",
+      "<span style='color: #ff55ff;'>Legendary</span>"
+    ],
+    [
       "Bone Crusher",
       "Increases damage dealt to Skeletons.",
       "Swords, Axes",
@@ -736,13 +743,6 @@
       "<span style='color: #ffaa00;'>Exotic</span>"
     ],
     [
-      "Guardian",
-      "Automatically heals and cures all nearby allies.",
-      "Boots, Leggings, Chestplates, Helmets",
-      "5",
-      "<span style='color: #ffaa00;'>Exotic</span>"
-    ],
-    [
       "Stun",
       "Chance to slow opponent, make them feel weak, and remove slowness from you.",
       "Axes",
@@ -794,8 +794,8 @@
     [
       "Chain Lifesteal",
       "Chance to steal health from multiple nearby enemies when attacking.",
-      "Boots, Leggings, Chestplates, Helmets",
-      "2",
+      "Swords, Tridents",
+      "5",
       "<span style='color: #ffff00;'>Fabled</span>"
     ]
   ]

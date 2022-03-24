@@ -47,8 +47,7 @@
       <div class="title" style="background: linear-gradient( rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) ), url(/assets/images/minecraft-repainted.webp); background-size: cover; background-position: 85%;">
         <div id="landing-title-text" style="text-align: center">
           <img id="landing-logo" src="/assets/images/logo.webp" alt="Khavalon Logo" />
-          <h1 class="hide-mobile-2">Vanilla+ PVP Survival</h1>
-          <h2 class="hide-mobile" id="player-count">99 Players Online</h2>
+          <p style="font-weight: bold;" class="hide-mobile" id="player-count">99 Players Online</p>
           <p class="ip">play.khavalon.com</p>
           <div style="width:100%">
             <button type="button" id="copybutton" onclick="copyToClipboard('copybutton')">Play Now</button>
@@ -63,7 +62,7 @@
       <div class="content" id="landing">
         <div class="shadow"></div>
         <section class="center" style="flex-direction: column; max-width: 600px; border-radius: 50px; border: #23d37b dotted 3px; margin: 50px;">
-          <h3>Welcome to Khavalon</h3>
+          <h1 style="font-size: 3em;">Hard Difficulty PVP Survival</h1>
           <p>Not your average SMP. Khavalon is a hard difficulty, pvp-enabled, survival RPG server. Danger lurks around every corner. Will you survive?</p>
         </section>
         <section class="center">
