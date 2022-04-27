@@ -39,8 +39,8 @@
             <a href="https://topmcservers.com/server/1610/vote" target="_blank"><button type="button" id="vote2" onclick="buttonClicked('vote2')">Vote</button></a>
           </div>
           <div>
-            <h3>minecraft-server-list.com</h3>
-            <a href="https://minecraft-server-list.com/server/484896/vote/" target="_blank"><button type="button" id="vote3" onclick="buttonClicked('vote3')">Vote</button></a>
+            <h3>minelist.net</h3>
+            <a href="https://minelist.net/vote/3953" target="_blank"><button type="button" id="vote3" onclick="buttonClicked('vote3')">Vote</button></a>
           </div>
           <div>
             <h3>planetminecraft.com</h3>
@@ -48,7 +48,7 @@
           </div>
           <div>
             <h3>servers-minecraft.net</h3>
-            <a href="https://servers-minecraft.net/server-khavalon-1-18-2.1274/vote" target="_blank"><button type="button" id="vote5" onclick="buttonClicked('vote5')">Vote</button></a>
+            <a href="https://servers-minecraft.net/server-semivanilla-studios-1-18-2-survival.1274/vote" target="_blank"><button type="button" id="vote5" onclick="buttonClicked('vote5')">Vote</button></a>
           </div>
           <div>
             <h3>minecraft.buzz</h3>

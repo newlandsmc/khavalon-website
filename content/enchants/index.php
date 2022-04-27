@@ -46,6 +46,7 @@
               <li>Strike and Area Strike are exclusive.</li>
               <li>Hasten, Haste, Trench, and Vein Miner are exclusive.</li>
               <li>Heavy, Tank, and Valor are exclusive.</li>
+              <li>Defuse, Deactivate, and Silence are exclusive.</li>
               <li>Bowmaster and Longbow are exclusive.</li>
             </ul>
           </section>

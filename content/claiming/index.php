@@ -26,6 +26,11 @@
             <img src="/assets/images/claiming-gui.webp" alt="Minecraft in-game GUI for Lands"></img>
           </section>
           <section>
+            <h3>Wars</h3>
+            <p>Any land with 3 or more members can have war declared against them!</p>
+            <p>More info, <a href="war">click here</a>.</p>
+          </section>
+          <section>
             <h3>Creating a Claim</h3>
             <p>To create a new Land, stand in a chunk you wish to claim and type <strong>/lands create [name]</strong>. This will create a new Land and automatically claim the chunk you are standing in. You can now use <strong>/lands</strong> to access the GUI and manage your claim. If you ever want to delete your claim, use <strong>/lands delete &lt;claim&gt;</strong>.</p>
             <p>To expand your Land, stand in another nearby chunk and use <strong>/lands claim</strong>, or use <strong>/lands selection</strong> to get the optional selection tool. If you ever want to reduce your claim, stand in a claimed chunk and use <strong>/lands unclaim</strong>.</p>
@@ -47,6 +52,7 @@
               <li><strong>/lands invites</strong> - View received invites</li>
               <li><strong>/lands leave</strong> - Leave a land</li>
               <li><strong>/lands chat</strong> - Send message to other land members</li>
+              <li><strong>/lands spawn</strong> - Teleport to your land</li>
             </ul>
           </section>
         </div>

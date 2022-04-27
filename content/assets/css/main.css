@@ -264,7 +264,7 @@ main {
 #landing h1, .title h1, .sub-title h1 {
   font-family: 'mctext';
   color: white;
-  font-size: 4em;
+  font-size: 3em;
   text-shadow: 0 2px black, 2px 0 black;
   text-align: center;
   line-height: 1em;
@@ -279,10 +279,14 @@ main {
 }
 
 .ip {
+  font-family: 'mctext';
+  font-size: 2em;
   padding: 10px 30px;
   border-radius: 15px;
   background-color: rgb(0 0 0 / 30%);
   display: inline-block;
+  color: #d4d4d4;
+  text-shadow: 0 2px black, 2px 0 black;
 }
 
 .content, #sub-nav {
@@ -555,8 +559,7 @@ button:hover {
 .overlay-fg {
   width: 80%;
   max-width: 440px;
-  background: linear-gradient( rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1) ), url(/assets/images/minecraft-repainted.webp);
-  background-size: 1280px;
+  background: linear-gradient( rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1) ), url(/assets/images/minecraft-repainted.webp) 0px 0px/1280px;
   color: #dddddd;
   text-align: center;
   border-radius: 15px;
@@ -573,10 +576,10 @@ button:hover {
 
 @media (orientation: landscape){
   @media (max-width: 1250px) {
-    .title h1, .sub-title h1{
+    #landing h1, .title h1, .sub-title h1{
       font-size: 2.5em;
     }
-    .title h2, .sub-title h2, .ip{
+    .title p, .title h2, .sub-title h2, .ip{
       font-size: 1.5em;
     }
   }
@@ -584,10 +587,10 @@ button:hover {
     .hide-mobile, #scrollbutton {
       display: none;
     }
-    .title h1, .sub-title h1{
+    #landing h1, .title h1, .sub-title h1{
       font-size: 2.5em;
     }
-    .title h2, .sub-title h2, .ip{
+    .title p, .title h2, .sub-title h2, .ip{
       font-size: 1.5em;
     }
     nav, #landing-body nav {
@@ -622,10 +625,10 @@ button:hover {
     .title {
       padding-top: initial;
     }
-    .title h1, .sub-title h1{
+    #landing h1, .title h1, .sub-title h1{
       font-size: 2.5em;
     }
-    .title h2, .sub-title h2, .ip{
+    .title p, .title h2, .sub-title h2, .ip{
       font-size: 1.5em;
     }
     .sub-title {
@@ -678,10 +681,10 @@ button:hover {
     }
   }
   @media (max-width: 450px) {
-    .title h1, .sub-title h1{
+    #landing h1, .title h1, .sub-title h1{
       font-size: 2em;
     }
-    .title h2, .sub-title h2, .ip {
+    .title p, .title h2, .sub-title h2, .ip {
       font-size: 1.2em;
     }
     .content h3, #landing h3, .overlay h3 {

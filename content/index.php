@@ -11,7 +11,7 @@
         aux.select();
         document.execCommand("copy");
         document.body.removeChild(aux);
-        document.getElementById(id).style.backgroundColor = "#d2a69f";
+        document.getElementById(id).style.backgroundColor = "#758f82";
         $('.overlay').addClass('active');
       }
       function overlayDismiss() {
@@ -62,7 +62,7 @@
       <div class="content" id="landing">
         <div class="shadow"></div>
         <section class="center" style="flex-direction: column; max-width: 600px; border-radius: 50px; border: #23d37b dotted 3px; margin: 50px;">
-          <h1 style="font-size: 3em;">Hard Difficulty PVP Survival</h1>
+          <h1>Hard Difficulty PVP Survival</h1>
           <p>Not your average SMP. Khavalon is a hard difficulty, pvp-enabled, survival RPG server. Danger lurks around every corner. Will you survive?</p>
         </section>
         <section class="center">

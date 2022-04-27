@@ -11,7 +11,7 @@
         aux.select();
         document.execCommand("copy");
         document.body.removeChild(aux);
-        document.getElementById(id).style.backgroundColor = "#d2a69f";
+        document.getElementById(id).style.backgroundColor = "#758f82";
         $('.overlay').addClass('active');
       }
       function overlayDismiss() {

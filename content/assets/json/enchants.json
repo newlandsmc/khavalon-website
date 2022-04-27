@@ -96,7 +96,7 @@
       "Chance for arrows to explode.",
       "Bows, Crossbows",
       "5",
-      "<span style='color: #55ff55;'>Uncommon</span>"
+      "<span style='color: #ffaa00;'>Exotic</span>"
     ],
     [
       "Ravenous",
@@ -114,8 +114,8 @@
     ],
     [
       "Telepathy",
-      "Automatically places ores in your inventory.",
-      "Pickaxes",
+      "Automatically places items in your inventory.",
+      "Pickaxes, Axes, Hoes, Shovels",
       "1",
       "<span style='color: #55ff55;'>Uncommon</span>"
     ],
@@ -604,15 +604,15 @@
     ],
     [
       "Neutralize",
-      "Chance to disarm opponent.",
+      "Chance to disarm opponent if they are wielding a sword, axe or bow.",
       "Bows, Crossbows",
       "3",
       "<span style='color: #ffff00;'>Fabled</span>"
     ],
     [
       "Disarm",
-      "Chance to disarm opponent.",
-      "Swords",
+      "Chance to disarm opponent if they are wielding a sword, axe or bow.",
+      "Swords, Axes",
       "3",
       "<span style='color: #ffff00;'>Fabled</span>"
     ],
