@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
   <head>
-    <title>Semi-Vanilla Minecraft Server | Features</title>
+    <title>Khavalon Minecraft Server | Features</title>
     <?php echo file_get_contents($_SERVER['DOCUMENT_ROOT'] .'/assets/templates/seo.html'); ?>
     <script async type="module" src="/assets/javascript/jquery-3.6.0.min.js"></script>
     <script defer async type="module" src="/assets/javascript/nav.js"></script>
@@ -11,8 +11,8 @@
     <main>
       <div class="sub-title" style="background-image: url(/assets/images/features-title.webp); background-position: center;">
         <div>
-          <h1>Vanilla+</h1>
-          <h2>Custom Features on SVMC</h2>
+          <h1>Other Features</h1>
+          <h2>Custom Features on Khavalon</h2>
         </div>
       </div>
       <div class="content split-content">
@@ -20,12 +20,12 @@
         <div>
           <section>
             <h3>Exhaustion</h3>
-            <p>Phantoms are disabled on SemiVanilla. Instead, to encourage sleep, players will experience <strong>Exhaustion</strong> - hearing random noises, occasional blindness, and nausea - if they don't sleep for extended periods of time.</p>
+            <p>Phantoms are disabled on Khavalon. Instead, to encourage sleep, players will experience <strong>Exhaustion</strong> - hearing random noises, occasional blindness, and nausea - if they don't sleep for extended periods of time.</p>
             <p>Phantom Membranes are still available on the server - we've added them to our custom lootchests!</p>
           </section>
           <section>
             <h3>Custom Recipes</h3>
-            <p>There are several custom recipes on SemiVanilla. They can be used to craft items not normally craftable in survival, or convert items back into their raw materials.</p>
+            <p>There are several custom recipes on Khavalon. They can be used to craft items not normally craftable in survival, or convert items back into their raw materials.</p>
             <p>Custom recipes are unlocked in the recipe book just like vanilla recipes! You can see all available recipes to you in any crafting bench.</p>
             <p>To see all custom recipes, <a href="recipes/">click here</a>.</p>
           </section>
@@ -38,7 +38,7 @@
           <section>
             <h3>Random Spawn</h3>
             <p>Every player spawns somewhere random within the overworld when they first join. This location is set as their spawnpoint - so they will always return there if they have no bed or respawn anchor.</p>
-            <p>There is no spawn on SemiVanilla.</p>
+            <p>There is no spawn on Khavalon.</p>
           </section>
           <section>
             <h3>Custom Loot Tables</h3>

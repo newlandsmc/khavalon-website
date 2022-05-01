@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
   <head>
-    <title>Semi-Vanilla Minecraft Server | Features | Expeditions</title>
+    <title>Khavalon Minecraft Server | Features | Expeditions</title>
     <?php echo file_get_contents($_SERVER['DOCUMENT_ROOT'] .'/assets/templates/seo.html'); ?>
     <script async type="module" src="/assets/javascript/jquery-3.6.0.min.js"></script>
     <script defer async type="module" src="/assets/javascript/nav.js"></script>
@@ -11,8 +11,8 @@
     <main>
       <div class="sub-title" style="background-image: url(/assets/images/features-title.webp); background-position: center;">
         <div>
-          <h1>Vanilla+ > Expeditions</h1>
-          <h2>Custom Features on SVMC</h2>
+          <h1>Other Features > Expeditions</h1>
+          <h2>Custom Features on Khavalon</h2>
         </div>
       </div>
       <div class="content split-content">
