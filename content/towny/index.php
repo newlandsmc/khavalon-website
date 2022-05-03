@@ -90,6 +90,9 @@
               <li><strong>/nation new &lt;name&gt;</strong> - create a new nation</li>
               <li><strong>/nation invite &lt;town&gt;</strong> - invite town to your nation</li>
               <li><strong>/nation add enemy &lt;nation&gt;</strong> - add enemy nation (allows starting war)</li>
+              <li><strong>/tc &lt;message&gt;</strong> - Send message to towny chat</li>
+              <li><strong>/nc &lt;message&gt;</strong> - Send message to nation chat</li>
+              <li><strong>/g</strong> - Switch chat channel to global</li>
             </ul>
             <p>More: <a href="https://github.com/TownyAdvanced/Towny/wiki/Towny-Commands" target="_blank">Towny official Wiki</a></p>
           </section>
