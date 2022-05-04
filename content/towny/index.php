@@ -78,11 +78,12 @@
             <p>Towny is an advanced plugin with many commands. You will need to use <strong>/[town|nation|resident|plot] help</strong> to see all commands in-game.</p>
             <p>Here, we've collected a few of the most useful commands to get started.</p>
             <ul>
-              <li><strong>/town create &lt;name&gt;</strong> - Create a new town</li>
+              <li><strong>/town create &lt;name&gt;</strong> - Create a new town (and claim current chunk)</li>
               <li><strong>/town claim</strong> - Claim chunk you are in</li>
               <li><strong>/town unclaim</strong> - Unclaim chunk you are in</li>
               <li><strong>/town trust add &lt;player&gt;</strong> - Allow player to access your town</li>
               <li><strong>/town add &lt;player&gt;</strong> - Add a player to your town (as resident)</li>
+              <li><strong>/invite accept &lt;town&gt;</strong> - Accept invite to a town</li>
               <li><strong>/town leave</strong> - leave a town</li>
               <li><strong>/town spawn</strong> - teleport to your town</li>
               <li><strong>/town delete</strong> - delete your town</li>
